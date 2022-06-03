@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor.io](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/solutions/interactive-rating-component-J3-BxwiUhS)
+- Live Site URL: [Live Demo](https://bright-boba-7d7f98.netlify.app/)
 
 ## My process
 
